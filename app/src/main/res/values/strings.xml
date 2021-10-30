@@ -2,4 +2,5 @@
     <string name="app_name">My Application</string>
     <string name="price">$100</string>
     <string name="productname">HeadSet</string>
+    <string name="MainHeading">Enjoy the world \n into virtual reality</string>
 </resources>
