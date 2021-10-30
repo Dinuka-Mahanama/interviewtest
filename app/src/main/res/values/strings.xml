@@ -3,4 +3,5 @@
     <string name="price">$100</string>
     <string name="productname">HeadSet</string>
     <string name="MainHeading">Enjoy the world \n into virtual reality</string>
+    <string name="MenuItem">Menu</string>
 </resources>
